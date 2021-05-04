@@ -1,13 +1,11 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Information on COVID-19 Vaccine
+date: "2020-05-01T23:46:37.121Z"
+description: Trusted sources on information regarding the COVID-19 Vaccine to debunk myths and provide facts
 ---
 
-Wow! I love blogging so much already.
+* [The CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html) debunks common myths and provides facts about the COVID-19 vaccine
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+* [The CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html) continues to provide valuable information by listing the different COVID vaccines
 
-Yeah, I didn't either.
+
